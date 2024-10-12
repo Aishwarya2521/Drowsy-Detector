@@ -1,19 +1,16 @@
 # Drowsy-Detector
 
-**Overview**  
-
+**OVERVIEW**  
 DrowsyDetector is a real-time drowsiness detection system that uses facial landmarks to monitor eye blinks. It classifies the user’s state as Active, Drowsy, or Sleeping, providing visual alerts to help prevent accidents caused by fatigue.
 
-**Requirements**  
-
+**REQUIREMENTS**  
 Python 3.x  
 OpenCV  
 dlib  
 imutils  
 NumPy  
 
-**Features**  
-
+**FEATURES**  
 Real-time face detection using the dlib library.  
 Eye blink detection using facial landmarks (68 points).  
 Categorizes the user’s state into three levels: Active, Drowsy, or Sleeping.  
